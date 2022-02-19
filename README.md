@@ -1,4 +1,5 @@
-# PruebaY-WebSocket
+# Vue, Nuxt Porject
+## PruebaY-WebSocket
 
 ## Build Setup
 
